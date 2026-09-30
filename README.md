@@ -39,7 +39,7 @@ Snowflake Cortex · OpenAI · AI Agents · LLM-assisted Data Migration & Reconci
 
 ## Featured Projects
 
-### Real-Time Analytics Platform - 
+### Real-Time Analytics Platform - https://github.com/de-w0rm/02-real-time-analytics-platform
 Production-like streaming data platform built around Kafka, Spark Structured Streaming, Schema Registry and Docker.
 
 Focus areas include event-driven ingestion, stream processing, schema-controlled messaging and analytical data delivery.
