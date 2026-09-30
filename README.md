@@ -39,12 +39,12 @@ Snowflake Cortex · OpenAI · AI Agents · LLM-assisted Data Migration & Reconci
 
 ## Featured Projects
 
-### Real-Time Analytics Platform
+### Real-Time Analytics Platform - 
 Production-like streaming data platform built around Kafka, Spark Structured Streaming, Schema Registry and Docker.
 
 Focus areas include event-driven ingestion, stream processing, schema-controlled messaging and analytical data delivery.
 
-### Modern Lakehouse Architecture
+### Modern Lakehouse Architecture - https://github.com/de-w0rm/01-modern-lakehouse-architecture
 Modular and containerized lakehouse architecture focused on incremental transformations, automated testing and production-oriented data platform design.
 
 ## Professional Focus
@@ -55,6 +55,6 @@ My recent work includes multi-region Snowflake resilience architecture, enterpri
 
 ## Connect
 
-- LinkedIn: Rafael D. Marcelino
+- LinkedIn: Rafael D. Marcelino https://www.linkedin.com/in/rafael-duarte-marcelino/
 - Location: Porto, Portugal
 - EU Citizen
